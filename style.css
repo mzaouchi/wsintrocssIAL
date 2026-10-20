@@ -1,0 +1,95 @@
+*{
+    background-color: pink;
+    font-family: fantasy;
+}
+a{
+    color: green;
+    font-size: 25px;
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+nav{
+    margin-left: 70%
+}
+
+a:hover{
+    color: blue;
+    text-decoration: overline;
+}
+
+h2{
+    text-decoration: underline;
+    font-size: xxx-large;
+    color: tomato;
+    margin-left: 9%;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    border: 10px aquamarine dotted;
+    border-radius: 123px;
+}
+
+#home{
+    text-align: center;
+}
+
+p{
+    display: inline-block;
+    width: 500px;
+    font-size: 20px;
+    margin-left: 10%;
+    text-align: justify;
+    line-height: 43px;
+}
+
+table, th, td{
+    border: 1px solid tomato;
+    border-collapse: collapse;
+    width: 500px;
+    margin: auto;
+}
+
+th, td{
+
+    height: 100px;
+    text-align: center;
+}
+
+form{
+    width: 450px;
+    margin: auto;
+}
+
+
+input{
+    margin-bottom: 20px;
+    margin-left: 50px;
+}
+
+#inpPass{
+    margin-left: 26px;
+}
+
+button{
+    width: 261px;
+    height: 46px;
+    font-size: 25px;
+    font-weight: bold;
+    color: green;
+    background-color: yellow;
+    border: red 8px solid;
+    border-radius: 14px;
+}
+
+button:hover{
+    background-color: red;
+    border-color: yellow;
+}
+
+footer{
+    font-size: 300px;
+    text-align: center;
+}
